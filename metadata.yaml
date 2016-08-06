@@ -1,0 +1,39 @@
+_repo: Plays_10722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ostrovsky, Aleksandr Nikolaevich
+    aliases:
+    - Островский, Александр Николаевич
+    - Ostrowskij, A. N.
+    - Ostrowski, Aleksander
+    - Ostrovsky, Alexander
+    - Ostrovsky, Aleksandr Nicolaevich
+    birthdate: 1823
+    deathdate: 1886
+    gutenberg_agent_id: '2619'
+    url: http://www.gutenberg.org/2009/agents/2619
+    wikipedia: http://en.wikipedia.org/wiki/Alexandr_Ostrovsky
+  editor:
+    agent_name: Noyes, George Rapall
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '33219'
+    url: http://www.gutenberg.org/2009/agents/33219
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into English'
+- GITenberg
+tableOfContents: "A Protégée of the Mistress\r\nPoverty Is No Crime\r\nSin and Sorrow\
+  \ Are Common to All\r\nIt's a Family Affair--We'll Settle It Ourselves."
+title: Plays
+url: http://www.gutenberg.org/ebooks/10722
